@@ -1,5 +1,6 @@
 # 💫 About Me:
 I am a student
+my Internship cerificate on web development of pancreatic cancer https://mail.google.com/mail/u/0?ui=2&ik=f02338a709&attid=0.1&permmsgid=msg-f:1798576902369070591&th=18f5d429d6ee4dff&view=att&disp=inline&realattid=f_lvz7h3jf0&zw
 
 
 # 💻 Tech Stack:
